@@ -1,0 +1,24 @@
+PODS:
+  - SSZipArchive (2.4.2)
+  - Yaml (3.4.4)
+  - zipzap (8.1.1)
+
+DEPENDENCIES:
+  - SSZipArchive
+  - Yaml
+  - zipzap
+
+SPEC REPOS:
+  trunk:
+    - SSZipArchive
+    - Yaml
+    - zipzap
+
+SPEC CHECKSUMS:
+  SSZipArchive: e7b4f3d9e780c2acc1764cd88fbf2de28f26e5b2
+  Yaml: 52831fc1d9ac2db4ddf6d7562993457127256ca6
+  zipzap: 940162d9c9c60472c2eab341385e4214da0fdf1c
+
+PODFILE CHECKSUM: 14434ce7d30899da2073054762e64fe6a1a6ec28
+
+COCOAPODS: 1.10.1

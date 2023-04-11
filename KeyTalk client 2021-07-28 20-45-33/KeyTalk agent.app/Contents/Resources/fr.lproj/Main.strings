@@ -1,0 +1,274 @@
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP"; */
+"1UK-8n-QPP.title" = "Customize Toolbar…";
+
+/* Class = "NSMenuItem"; title = "KeyTalk client"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "KeyTalk client";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
+"1b7-l0-nxx.title" = "Find";
+
+/* Class = "NSTextFieldCell"; title = "4. Enter credentials to activate the KeyTalk Client."; ObjectID = "1wb-dw-iC6"; */
+"1wb-dw-iC6.title" = "4. Entrez les informations d'identification pour activer le client KeyTalk.";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; */
+"2oI-Rn-ZJC.title" = "Transformations";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg"; */
+"3IN-sU-3Bg.title" = "Spelling";
+
+/* Class = "NSSplitViewController"; title = "KeyTalk client"; ObjectID = "3nJ-T5-Hrv"; */
+"3nJ-T5-Hrv.title" = "KeyTalk client";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
+"3rS-ZA-NoH.title" = "Speech";
+
+/* Class = "NSTextFieldCell"; title = "URL"; ObjectID = "4Cf-wZ-gsg"; */
+"4Cf-wZ-gsg.title" = "URL";
+
+/* Class = "NSTextFieldCell"; title = "Password"; ObjectID = "4DN-co-43F"; */
+"4DN-co-43F.title" = "Mot de passe";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
+"4EN-yA-p0u.title" = "Find";
+
+/* Class = "NSMenuItem"; title = "Quit KeyTalk client"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quittez le client KeyTalk";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "Modifier";
+
+/* Class = "NSMenuItem"; title = "About KeyTalk client"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "À propos du client KeyTalk";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "Redo";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v"; */
+"78Y-hA-62v.title" = "Correct Spelling Automatically";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter Username"; ObjectID = "9Kp-GP-DyW"; */
+"9Kp-GP-DyW.placeholderString" = "Saisissez votre nom d'utilisateur";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; */
+"9ic-FL-obx.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM"; */
+"9yt-4B-nSM.title" = "Smart Copy/Paste";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSViewController"; title = "ViewVontroller"; ObjectID = "Avy-aO-5Ff"; */
+"Avy-aO-5Ff.title" = "ViewVontroller";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7"; */
+"Dv1-io-Yv7.title" = "Spelling and Grammar";
+
+/* Class = "NSTextFieldCell"; title = "KeyTalk client provides Public Key Infrastructure secure automated client certificate enrollment solutions"; ObjectID = "E9E-rC-gyA"; */
+"E9E-rC-gyA.title" = "De KeyTalk client maakt automatische aanvraag en uitrol van PKI certificaten mogelijk voor o.a. veilige authenticatie, email versleuteling en digitale document ondertekening";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Aide";
+
+/* Class = "NSMenuItem"; title = "KeyTalk client Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Aide du client KeyTalk";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr"; */
+"FeM-D8-WVr.title" = "Substitutions";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "View";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA"; */
+"HFQ-gK-NFA.title" = "Text Replacement";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI"; */
+"HFo-cy-zxI.title" = "Show Spelling and Grammar";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "View";
+
+/* Class = "NSWindow"; title = "KeyTalk client"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "KeyTalk client";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Enter Password"; ObjectID = "JY5-Ys-9qy"; */
+"JY5-Ys-9qy.placeholderString" = "Entrer le mot de passe";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Montre tout";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Bring All to Front";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "M3n-Wo-nEw"; */
+"M3n-Wo-nEw.title" = "Box";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Hide KeyTalk client"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Masquer le client KeyTalk";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
+"OwM-mh-QMV.title" = "Find Previous";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
+"Oyz-dy-DGm.title" = "Stop Speaking";
+
+/* Class = "NSTextFieldCell"; title = "2. Import or double click the configuration file. "; ObjectID = "QaO-F2-5mK"; */
+"QaO-F2-5mK.title" = "2. Importez ou double-cliquez sur le fichier de configuration. ";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "Select All";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
+"S0p-oC-mLd.title" = "Jump to Selection";
+
+/* Class = "NSViewController"; title = "About KeyTalk client"; ObjectID = "TLv-XX-Twa"; */
+"TLv-XX-Twa.title" = "About KeyTalk client";
+
+/* Class = "NSTextFieldCell"; title = "For questions or support kindly email the IT service organization offering the KeyTalk solution to you. KeyTalk 3rd line support can be reached at:"; ObjectID = "TMd-HR-ji3"; */
+"TMd-HR-ji3.title" = "Pour toute question ou assistance, veuillez contacter le service informatique qui vous propose la solution KeyTalk.";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "TXG-3w-U2O"; */
+"TXG-3w-U2O.title" = "Box";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
+"UEZ-Bs-lqG.title" = "Capitalize";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Masquer les autres";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "Modifier";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk"; */
+"WeT-3V-zwk.title" = "Paste and Match Style";
+
+/* Class = "NSTextFieldCell"; title = "Services"; ObjectID = "XVo-1W-2Em"; */
+"XVo-1W-2Em.title" = "Services";
+
+/* Class = "NSTextFieldCell"; title = "Username"; ObjectID = "XZG-u6-Ei9"; */
+"XZG-u6-Ei9.title" = "Nom d'utilisateur";
+
+/* Class = "NSButtonCell"; title = "support@keytalk.com"; ObjectID = "Xx4-UE-kd2"; */
+"Xx4-UE-kd2.title" = "support@keytalk.com";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
+"Xz5-n4-O0W.title" = "Find…";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz"; */
+"YEy-JH-Tfz.title" = "Find and Replace…";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ"; */
+"Ynk-f8-cLZ.title" = "Start Speaking";
+
+/* Class = "NSButtonCell"; title = "https://www.keytalk.com/"; ObjectID = "ZKl-PG-3w0"; */
+"ZKl-PG-3w0.title" = "https://www.keytalk.com/";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Zaq-zO-8mP"; */
+"Zaq-zO-8mP.title" = "Annuler";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Window";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Enter URL"; ObjectID = "ajv-kf-3Gx"; */
+"ajv-kf-3Gx.placeholderString" = "entrer l'URL";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
+"buJ-ug-pKt.title" = "Use Selection for Find";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd"; */
+"c8a-y6-VQd.title" = "Transformations";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid"; */
+"cwL-P1-jid.title" = "Smart Links";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd"; */
+"d9M-CD-aMd.title" = "Make Lower Case";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "dDQ-w1-qeD"; */
+"dDQ-w1-qeD.title" = "importation";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "Annuler";
+
+/* Class = "NSButtonCell"; title = "Login"; ObjectID = "g3C-Y1-dd5"; */
+"g3C-Y1-dd5.title" = "S'identifier";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "Paste";
+
+/* Class = "NSTextFieldCell"; title = "3. Select the preferred service."; ObjectID = "gct-2Y-X1y"; */
+"gct-2Y-X1y.title" = "3. Sélectionnez le service préféré.";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
+"hQb-2v-fYv.title" = "Smart Quotes";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; */
+"hz2-CU-CR7.title" = "Check Document Now";
+
+/* Class = "NSTextFieldCell"; title = "1. Download your KeyTalk configuration file (RCCD)"; ObjectID = "hz5-X0-b6J"; */
+"hz5-X0-b6J.title" = "1. Téléchargez votre fichier de configuration KeyTalk (RCCD)";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "j9m-k2-259"; */
+"j9m-k2-259.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "KeyTalk client"; ObjectID = "jjE-tK-zQA"; */
+"jjE-tK-zQA.title" = "KeyTalk client";
+
+/* Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "kIP-vf-haE"; */
+"kIP-vf-haE.title" = "Show Sidebar";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "mK6-2p-4JG"; */
+"mK6-2p-4JG.title" = "Check Grammar With Spelling";
+
+/* Class = "NSTextFieldCell"; title = "Instructions"; ObjectID = "nQa-2k-Sf9"; */
+"nQa-2k-Sf9.title" = "Instructions";
+
+/* Class = "NSTableColumn"; headerCell.title = "RCCD Files"; ObjectID = "nU6-F5-5V9"; */
+"nU6-F5-5V9.headerCell.title" = "Fichier de configuration KeyTalk (RCCD).";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "Delete";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
+"q09-fT-Sye.title" = "Find Next";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; */
+"rbD-Rh-wIN.title" = "Check Spelling While Typing";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn"; */
+"rgM-f4-ycn.title" = "Smart Dashes";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5"; */
+"snW-S8-Cw5.title" = "Show Toolbar";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "tRr-pd-1PS"; */
+"tRr-pd-1PS.title" = "Data Detectors";
+
+/* Class = "NSMenu"; title = "KeyTalk client"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "KeyTalk client";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "Cut";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI"; */
+"vmV-6d-7jI.title" = "Make Upper Case";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Aide";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "Copy";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
+"xrE-MZ-jX0.title" = "Speech";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
+"z6F-FW-3nz.title" = "Show Substitutions";
+

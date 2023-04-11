@@ -1,0 +1,178 @@
+/*
+ Localizable.strings
+ KeyTalk client
+ 
+ Created by  IntiMac on 25/12/18.
+ Copyright © 2018 KeyTalk. All rights reserved.
+ */
+"KeyTalk_client_string" = "KeyTalk agent";
+"cancel_string" = "Annuleren";
+"ok_string" = "OK";
+
+//Appdelegate
+"remove_cert_string" = "Verwijder certificaten";
+"remove_config_string" = "Verwijder configuratie";
+"start_at_login_string" = "Start bij inloggen";
+"change_language_string" = "verander van taal";
+"Check CRL" = "Controleer CRL";
+"one_hours_string" = "1 hour";
+"three_hour_string" = "3 hours";
+"24_hour_string" = "24 hours"; //2
+"show_log_string" = "Toon log";
+"send_log_string" = "Log versturen";
+"about_string" = "Over ons";
+"quit_client_string" = "KeyTalk afsluiten";
+//"is_selected_string" =  "is selected";
+
+//AboutViewController
+"Version_string" = "Versie: ";
+
+//ServicesViewController
+"version" = "versie";
+"please_wait_string" = "Even geduld aub...";
+"username_cannot_blank_string" = "Gebruikersnaam mag niet leeg zijn";
+"password_blank_string" = "Wachtwoord mag niet leeg zijn";
+"select_service_string" = "Selecteer alstublieft een service";
+"error_communication_string" = "Er is een fout opgetreden in de communicatie";
+"response_empty_terminating_string" = "Antwoord kan niet leeg zijn, waardoor de verbinding wordt verbroken";
+"wait_string" = "Wacht-";
+"login_button_string" = "LOG IN";
+
+//ViewController
+"enter_url_to_download_string" = "Voer de URL in om het RCCD-configuratiebestand te downloaden";
+"select_rccd_to_delete_string" = "Selecteer een RCCD-configuratie om te verwijderen";
+"rccd_already_installed_string" = "Dit RCCD-configuratiebestand is al geïnstalleerd";
+"enter_valid_url_string" = "Voer een geldige URL in";//2
+"KeyTalk configuration file (RCCD)." = "KeyTalk-configuratiebestand (RCCD).";
+
+//LDAPGuideViewController
+"step1lbl_text" = "U kunt het invoeren van gebruikersnaam en wachtwoord overslaan door in de volgende schermen op VOLGENDE of INSTALLEREN te klikken.";
+"instructionLBL_text" = "(Bepaalde LDAP-profielen vereisen mogelijk meerdere skips.)";
+
+//Defines
+"error_connection_string" = "Er is een fout opgetreden tijdens de verbinding.";
+"email_report_html_string" = "Dit is een e-mail naar de KeyTalk-helpdesk. Vervang deze tekst door een beschrijving van het probleem dat u ondervindt en wat u aan het doen was toen het probleem zich voordeed. Het bijgevoegde logbestand is nodig om ons u zo efficiënt mogelijk te helpen. Het bevat geen persoonlijke informatie.";
+"email_report_subject_string" = "KeyTalk macOS-client - Foutrapport";
+"time_string" = "Time:::::::";
+"utc_string" = "UTC";
+"open_KeyTalk_string" = "KeyTalk openen";
+"close_string" = "Sluiten";
+
+//Utilities
+"enter_your_response_string" = "Voer uw antwoord in";
+"invalid_input_dialog_button" = "Ongeldige invoerdialoogknop";//2
+"login_permission_string" = "KeyTalk-client moet mogelijk voor vertrouwensdoeleinden certificaten van uw digitale serviceprovider toevoegen aan het systeem en kan u om uw macOS-aanmeldingswachtwoord vragen om deze installatie toe te staan.";
+"invalid_rccd_string" = "Dit is een ongeldig KeyTalk RCCD-configuratiebestand";
+"check_internet_connection_string" = "Controleer alstublieft uw internetverbinding";
+"crl_could_not_converted_string" = "CRL kan niet worden geconverteerd";
+"certificate_for_string" = "certificate for ";
+"service_revoked_deleted_string" = "certificaat is ingetrokken en verwijderd";
+"service_revoked_not_deleted_string" = "certificaat is ingetrokken maar niet verwijderd omdat het van het type SMIME e-mail encryptie is.";
+
+//VCModels
+"authentication_failed_try_again_after_string" = "Verificatie mislukt. Probeer het opnieuw na";
+"seconds_string" = "seconden.";
+"user_locked_check_administrator_string" = "Gebruiker is vergrendeld op server. Neem contact op met uw beheerder.";
+"password_expired_update_string" = "Wachtwoord is verlopen. Werk uw wachtwoord bij.";
+
+//Keychains
+//"cannot_open_keycahin_string" = "Cannot open keychain";
+//"cannot_create_keychain_string" = "Cannot create keychain";
+//"cannot_delete_certificate_string" = "Cannot delete certificate";
+//"cannot_delete_keychain_string" = "Cannot delete keychain";
+//"cannot_query_keycahin_string" = "Cannot query keychain items";
+
+//Connection
+"something_went_wrong_try_string" = "Er is iets fout gegaan. Probeer het opnieuw."; //5
+//Connection Handler
+"end_of_communication_string" = "Einde van de communicatie.";
+
+//Certificate Loader
+"Certificate added successfully to the Keychain" = "Certificaat succesvol toegevoegd aan de sleutelhanger";
+"Certificate could not be installed because it already exists" = "certificaat kon niet worden geïnstalleerd omdat het al bestaat";//2
+
+//DBHandler
+"rccd_already_imported_string" = "RCCD-configuratiebestand is al geïmporteerd.";
+"rccd_suceess_imported_string" = "RCCD-configuratiebestand succesvol geïmporteerd.";
+"rccd_removed_string" = "RCCD configuratiebestand succesvol verwijderd";
+
+//Background Scheduler
+"cert_service_string" = "Certificaat Service:";
+"expiry_time_string" = "Vervaldatum:";
+"cert_with_service_string" = "Certificaat met services";
+"has_expired_string" = "is verstreken.";
+
+//MenuItems
+"edit_menu" = "Bewerk";
+"view_menu" = "Uitzicht";
+"window_menu" = "Window";
+"help_menu" = "Helpen";
+"about_menu" = "Wat betreft KeyTalk agent";
+"hideKT_menu" = "Verbergen KeyTalk agent";
+"hideOther_menu" = "Verberg anderen";
+"Show_all_menu" = "Toon alles";
+"quitKT_menu" = "Ophouden KeyTalk agent";
+"undo_title" = "ongedaan maken";
+"redo_menu" = "Redo";
+"cut_menu" = "Besnoeiing";
+"copy_menu" = "Kopiëren";
+"paste_menu" = "Paste";
+"paste_match_menu" = "Paste and Match Style";
+"delete_menu" = "Verwijder";
+"select_all_menu" = "Selecteer alles";
+"find_menu" = "Vind";
+"spelling_grammer_menu" = "Spelling en grammatica";
+"substituion_menu" = "vervangingen";
+"tranformation_menu" = "Transformaties";
+"speech_menu" = "toespraak";
+"find_submenu" = "Vind...";
+"find_replace_submenu" = "Zoeken en vervangen";
+"find_next_submenu" = "Vind Volgende";
+"find_previous_submenu" = "Zoek naar de vorige";
+"use_selection_find_submenu" = "Gebruik selectie voor zoeken";
+"jump_selection" = "Ga naar de selectie";
+"show_sg_submenu" = "Spelling en grammatica weergeven";
+"check_doc_submenu" = "Controleer nu het document";
+"check_swt_submenu" = "Check the spelling while typing";
+"check_gws_submenu" = "Check Grammar while Spelling";
+"spell_auto_submenu" = "Juiste spelling automatisch";
+"show_sub" = "Toon vervangingen";
+"smart_cp_sub" = "Slim kopiëren en plakken";
+"smart_quote_sub" = "Slimme citaten";
+"smart_dash_sub" = "Smart Dashes";
+"smart_link_sub" = "Slimme koppelingen";
+"data_detectors_sub" = "Gegevensdetectoren";
+"text_replacement_sub" = "Tekst ersetzen";
+"make_uc_sub" = "Maak hoofdletters";
+"make_lc_sub" = "Maak kleine letters";
+"captalize_sub" = "kapitaliseren";
+"start_speak_sub" = "Begin te praten";
+"stop_speak_sub" = "Stop met praten";
+"show_toolbar_menu" = "Werkbalk tonen";
+"customize_toolbar_menu" = "Pas de werkbalk aan";
+"show_sidebar_menu" = "Show Sizebar";
+"minimize_menu" = "verkleinen";
+"bring_to_front_menu" = "Breng alles naar voren";
+"KThelp_menu" = "KeyTalk agent Helpen";
+
+/* Comment the changes*/
+"Services" = "Diensten";
+"Choose Your KeyTalk Configuration" =  "Kies uw KeyTalk-configuratie";
+"pls_enter_url_or_filepath" = "Voer de URL naar uw configuratiebestand in.";
+"enter_url" = "Voer a.u.b de URL naar uw configuratiebestand in.";
+"no_config_present" = "Geen configuratiebestanden aanwezig, hier kan er een geselecteerd worden.";
+"add_config_file" = "Nieuw config file";
+"remove_selcted_config" = "Verwijder config";
+"Kindly provide your email address" =  "Vul uw e-mailadres hier in";
+"Please enter the One Time Password as sent to your provided email address" = "Voer het eenmalige wachtwoord (OTP) in zoals naar u verzonden.";
+"common_name" = "Volledige gebruikersnaam (optioneel)";
+"Next" = "Volgende";
+"login" =  "Log in";
+
+"auth_success" = "Verificatie is gelukt, certificaat en sleutel zijn met succes geïnstalleerd";
+"enter_username_password" = "Voer gebruikersnaam, wachtwoord in";
+
+//new strings for historical certficates
+"download_historical_certs" ="Er zijn historische email S/MIME certificaten beschikbaar, wilt u deze installeren? ";
+"no" ="Nee";
+"yes" ="Ja";

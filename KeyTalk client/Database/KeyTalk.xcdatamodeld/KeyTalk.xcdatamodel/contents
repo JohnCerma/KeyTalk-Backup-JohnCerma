@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14315.18" systemVersion="17G65" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CRLFrequency" representedClassName="CRLFrequency" syncable="YES" codeGenerationType="class">
+        <attribute name="crlFrequencySelected" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="crlKey" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="timeToCheck" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="DownloadedCert" representedClassName="DownloadedCert" syncable="YES" codeGenerationType="class">
+        <attribute name="certChallenge" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="certCRLURL" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="certData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="certDownloadTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="certExpiryTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="certFingerPrint" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="certNotificationShown" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="certRCCDName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="certServiceName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="certServiceUri" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="certUsername" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="certValidPer" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="commonName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isSMIME" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="serialNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userInfo" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="RCCD" representedClassName="RCCD" syncable="YES" codeGenerationType="class">
+        <attribute name="imageData" optional="YES" attributeType="Binary" syncable="YES"/>
+        <attribute name="iniInfo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rccdName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="StartAtLogin" representedClassName="StartAtLogin" syncable="YES" codeGenerationType="class">
+        <attribute name="isStartAtLoginEnabled" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="loginKey" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES" codeGenerationType="class">
+        <attribute name="rccdname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="service" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="username" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CRLFrequency" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="DownloadedCert" positionX="-54" positionY="18" width="128" height="285"/>
+        <element name="RCCD" positionX="-36" positionY="135" width="128" height="90"/>
+        <element name="StartAtLogin" positionX="-18" positionY="144" width="128" height="75"/>
+        <element name="User" positionX="0" positionY="153" width="128" height="90"/>
+    </elements>
+</model>

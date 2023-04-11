@@ -1,0 +1,178 @@
+/*
+ Localizable.strings
+ KeyTalk client
+ 
+ Created by  IntiMac on 25/12/18.
+ Copyright © 2018 KeyTalk. All rights reserved.
+ */
+"KeyTalk_client_string" = "KeyTalk agent";
+"cancel_string" = "Cancel";
+"ok_string" = "OK";
+
+//Appdelegate
+"remove_cert_string" = "Remove Certificates";
+"remove_config_string" = "Remove Configurations";
+"start_at_login_string" = "Start At Login";
+"change_language_string" = "Change Language";
+"Check CRL" = "Check CRL";
+"one_hours_string" = "1 hour";
+"three_hour_string" = "3 hours";
+"24_hour_string" = "24 hours"; //2
+"show_log_string" = "Show Logs";
+"send_log_string" = "Send Logs";
+"about_string" = "About";
+"quit_client_string" = "Quit KeyTalk agent";
+//"is_selected_string" =  "is selected";
+
+//AboutViewController
+"Version_string" = "Version: ";
+
+//ServicesViewController
+"version" = "version";
+"please_wait_string" = "Please Wait";
+"username_cannot_blank_string" = "Username cannot be blank";
+"password_blank_string" = "Password cannot be blank";
+"select_service_string" = "Please select a service";
+"error_communication_string" = "Error occurred in communication";
+"response_empty_terminating_string" = "Response cannot be empty, Terminating the connection";
+"wait_string" = "WAIT-";
+"login_button_string" = "LOGIN";
+
+//ViewController
+"enter_url_to_download_string" = "Enter URL to download RCCD file";
+"select_rccd_to_delete_string" = "Please select an RCCD to delete";
+"rccd_already_installed_string" = "This RCCD file has already been installed";
+"enter_valid_url_string" = "Enter a valid URL";//2
+"KeyTalk configuration file (RCCD)." = "KeyTalk configuration file (RCCD).";
+
+//LDAPGuideViewController
+"step1lbl_text" = "You can skip entering Username & Password, by clicking NEXT or INSTALL in the upcoming screens.";
+"instructionLBL_text" = "(Certain LDAP Profiles might require multiple skips.)";
+
+//Defines
+"error_connection_string" = "Error occurred in connection.";
+"email_report_html_string" = "This is an e-mail to the KeyTalk support desk. Please replace this text with a description of the problem you are experiencing, and what you were doing when the problem occurred.The attached log file is required to let us help you as efficient as possible. It does not contain any personal information.";
+"email_report_subject_string" = "KeyTalk macOS agent - Error report";
+"time_string" = "Time:::::::";
+"utc_string" = "UTC";
+"open_KeyTalk_string" = "Open KeyTalk";
+"close_string" = "Close";
+
+//Utilities
+"enter_your_response_string" = "Enter your response";
+"invalid_input_dialog_button" = "Invalid input dialog button";//2
+"login_permission_string" = "KeyTalk agent may need to add certificates belonging to your digital services provider for trust purposes to the System and can prompt for your macOS login password to allow for this installation.";
+"invalid_rccd_string" = "This is an invalid RCCD";
+"check_internet_connection_string" = "Please check your Internet connection";
+"crl_could_not_converted_string" = "crl could not be converted";
+"certificate_for_string" = "certificate for ";
+"service_revoked_deleted_string" = "certificate has been revoked and deleted";
+"service_revoked_not_deleted_string" = "certificate has been revoked but not deleted as it is of type SMIME email encryption.";
+
+//VCModels
+"authentication_failed_try_again_after_string" = "Authentication Failed. Please try again after";
+"seconds_string" = "seconds.";
+"user_locked_check_administrator_string" = "User is locked on server. Please check with your administrator.";
+"password_expired_update_string" = "Password is expired. Please update your password.";
+
+//Keychains
+//"cannot_open_keycahin_string" = "Cannot open keychain";
+//"cannot_create_keychain_string" = "Cannot create keychain";
+//"cannot_delete_certificate_string" = "Cannot delete certificate";
+//"cannot_delete_keychain_string" = "Cannot delete keychain";
+//"cannot_query_keycahin_string" = "Cannot query keychain items";
+
+//Connection
+"something_went_wrong_try_string" = "Something went wrong. Please try again."; //5
+//Connection Handler
+"end_of_communication_string" = "End of communication.";
+
+//Certificate Loader
+"Certificate added successfully to the Keychain" = "Certificate added successfully to the Keychain";
+"Certificate could not be installed because it already exists" = "Certificate could not be installed because it already exists";//2
+
+//DBHandler
+"rccd_already_imported_string" = "RCCD file has already been imported.";
+"rccd_suceess_imported_string" = "RCCD file successfully imported.";
+"rccd_removed_string" = "RCCD File removed successfully";
+
+//Background Scheduler
+"cert_service_string" = "Certificate service:";
+"expiry_time_string" = "Expiry Time:";
+"cert_with_service_string" = "Certificate with service:";
+"has_expired_string" = "has expired.";
+
+//MenuItems
+"edit_menu" = "Edit";
+"view_menu" = "View";
+"window_menu" = "Window";
+"help_menu" = "Help";
+"about_menu" = "About KeyTalk agent";
+"hideKT_menu" = "Hide KeyTalk agent";
+"hideOther_menu" = "Hide Others";
+"Show_all_menu" = "Show All";
+"quitKT_menu" = "Quit KeyTalk agent";
+"undo_title" = "Undo";
+"redo_menu" = "Redo";
+"cut_menu" = "Cut";
+"copy_menu" = "Copy";
+"paste_menu" = "Paste";
+"paste_match_menu" = "Paste and Match Style";
+"delete_menu" = "Delete";
+"select_all_menu" = "Select All";
+"find_menu" = "Find";
+"spelling_grammer_menu" = "Spelling and Grammar";
+"substituion_menu" = "Sustitutions";
+"tranformation_menu" = "Transformations";
+"speech_menu" = "speech";
+"find_submenu" = "Find...";
+"find_replace_submenu" = "Find and Replace";
+"find_next_submenu" = "Find Next";
+"find_previous_submenu" = "Find Previous";
+"use_selection_find_submenu" = "Use Selection for Find";
+"jump_selection" = "Jump to Selection";
+"show_sg_submenu" = "Show Spelling and Grammar";
+"check_doc_submenu" = "Check Document Now";
+"check_swt_submenu" = "Check Spelling While Typing";
+"check_gws_submenu" = "Check Grammar while Spelling";
+"spell_auto_submenu" = "Correct Spelling Automatically";
+"show_sub" = "Show Substitutions";
+"smart_cp_sub" = "Smart Copy/Paste";
+"smart_quote_sub" = "Smart Quotes";
+"smart_dash_sub" = "Smart Dashes";
+"smart_link_sub" = "Smart Links";
+"data_detectors_sub" = "Data Detectors";
+"text_replacement_sub" = "Text Replacement";
+"make_uc_sub" = "Make Upper Case";
+"make_lc_sub" = "Make Lower Case";
+"captalize_sub" = "Capitalize";
+"start_speak_sub" = "Start Speaking";
+"stop_speak_sub" = "Stop Speaking";
+"show_toolbar_menu" = "Show Toolbar";
+"customize_toolbar_menu" = "Customize Toolbar";
+"show_sidebar_menu" = "Show Sizebar";
+"minimize_menu" = "Minimize";
+"bring_to_front_menu" = "Bring All to Front";
+"KThelp_menu" = "KeyTalk agent Help";
+
+/* Comment the changes*/
+"Services" = "Services";
+"Choose Your KeyTalk Configuration" =  "Choose Your KeyTalk Configuration";
+"pls_enter_url_or_filepath" = "Please enter a URL or a file path to the customization file";
+"enter_url" = "Kindly enter the URL to the KeyTalk configuration file";
+"no_config_present" = "No configuration files present please load one first. When configuration files exist these can be selected in this area";
+"add_config_file" = "ADD Config file";
+"remove_selcted_config" = "REMOVE selected config";
+"Kindly provide your email address" =  "Kindly provide your email address";
+"Please enter the One Time Password as sent to your provided email address" = "Please enter the One Time Password as sent to your provided email address";
+"common_name" = "Full User Name (optional)";
+"Next" = "Next";
+"login" =  "Login";
+
+"auth_success" = "Authentication was successful, certificate and key were successfully installed";
+"enter_username_password" = "Please enter Username, Password";
+
+//new strings for historical certficates
+"download_historical_certs" ="Historical email S/MIME certificates are available for download, would you like them to be installed?";
+"no" ="No";
+"yes" ="Yes";

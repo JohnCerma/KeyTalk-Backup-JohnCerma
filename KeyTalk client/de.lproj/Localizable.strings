@@ -1,0 +1,178 @@
+/*
+ Localizable.strings
+ KeyTalk client
+ 
+ Created by  IntiMac on 25/12/18.
+ Copyright © 2018 KeyTalk. All rights reserved.
+ */
+"KeyTalk_client_string" = "KeyTalk agent";
+"cancel_string" = "Abbrechen";
+"ok_string" = "OK";
+
+//Appdelegate
+"remove_cert_string" = "Zertifikate entfernen";
+"remove_config_string" = "Konfiguration entfernen";
+"start_at_login_string" = "Beim Login starten";
+"change_language_string" = "Sprache ändern";
+"Check CRL" = "Überprüfe CRL";
+"one_hours_string" = "1 hour";
+"three_hour_string" = "3 hours";
+"24_hour_string" = "24 hours"; //2
+"show_log_string" = "Logdatei anzeigen";
+"send_log_string" = "Logdatei senden";
+"about_string" = "Über uns";
+"quit_client_string" = "KeyTalk beenden";
+//"is_selected_string" =  "is selected";
+
+//AboutViewController
+"Version_string" = "Softwareversion: ";
+
+//ServicesViewController
+"version" = "softwareversion";
+"please_wait_string" = "Bitte warten...";
+"username_cannot_blank_string" = "Benutzername darf nicht leer sein";
+"password_blank_string" = "Das Passwort darf nicht leer sein";
+"select_service_string" = "Bitte wählen Sie einen Dienst aus";
+"error_communication_string" = "Bei der Kommunikation ist ein Fehler aufgetreten";
+"response_empty_terminating_string" = "Die Antwort darf nicht leer sein, um die Verbindung zu beenden";
+"wait_string" = "Warten-";
+"login_button_string" = "Anmeldung";
+
+//ViewController
+"enter_url_to_download_string" = "URL eingeben, um die RCCD-Konfigurationsdatei herunterzuladen";
+"select_rccd_to_delete_string" = "Bitte wählen Sie eine RCCD-Konfiguration zum Löschen";
+"rccd_already_installed_string" = "Diese RCCD-Konfigurationsdatei wurde bereits installiert";
+"enter_valid_url_string" = "Geben Sie eine gültige URL ein";//2
+"KeyTalk configuration file (RCCD)." = "KeyTalk-Konfigurationsdatei (RCCD).";
+
+//LDAPGuideViewController
+"step1lbl_text" = "Sie können die Eingabe von Benutzername und Passwort überspringen, indem Sie in den nächsten Bildschirmen auf WEITER oder INSTALLIEREN klicken.";
+"instructionLBL_text" = "(Bestimmte LDAP-Profile erfordern möglicherweise mehrere Auslassungen.)";
+
+//Defines
+"error_connection_string" = "Fehler in Verbindung aufgetreten.";
+"email_report_html_string" = "Dies ist eine E-Mail an den KeyTalk-Support. Ersetzen Sie diesen Text durch eine Beschreibung des Problems, das aufgetreten ist und was Sie getan haben, als das Problem auftrat. Die angehängte Protokolldatei ist erforderlich, damit wir Sie so effizient wie möglich unterstützen können. Es enthält keine persönlichen Informationen.";
+"email_report_subject_string" = "KeyTalk macOS-Client - Fehlerbericht";
+"time_string" = "Time:::::::";
+"utc_string" = "UTC";
+"open_KeyTalk_string" = "KeyTalk Öffnen";
+"close_string" = "Schließen";
+
+//Utilities
+"enter_your_response_string" = "Geben Sie Ihre Antwort ein";
+"invalid_input_dialog_button" = "Ungültige Eingabedialogschaltfläche";//2
+"login_permission_string" = "Der KeyTalk-Client muss möglicherweise zu Vertrauenszwecken dem System gehörende Zertifikate Ihres Anbieters für digitale Dienste hinzufügen und kann Ihr macOS-Anmeldekennwort eingeben, um diese Installation zu ermöglichen.";
+"invalid_rccd_string" = "Dies ist eine ungültige KeyTalk RCCD-Konfigurationsdatei";
+"check_internet_connection_string" = "Bitte überprüfe deine Internetverbindung";
+"crl_could_not_converted_string" = "CRL konnte nicht konvertiert werden";
+"certificate_for_string" = "certificate for ";
+"service_revoked_deleted_string" = "Zertifikat wurde widerrufen und gelöscht";
+"service_revoked_not_deleted_string" = "Das Zertifikat wurde widerrufen, aber nicht gelöscht, da es vom Typ SMIME-E-Mail-Verschlüsselung ist.";
+
+//VCModels
+"authentication_failed_try_again_after_string" = "Authentifizierung fehlgeschlagen. Bitte versuchen Sie es noch einmal nach";
+"seconds_string" = "sekunden.";
+"user_locked_check_administrator_string" = "Benutzer ist auf dem Server gesperrt. Bitte erkundigen Sie sich bei Ihrem Administrator.";
+"password_expired_update_string" = "Passwort ist abgelaufen Bitte aktualisieren Sie Ihr Passwort.";
+
+//Keychains
+//"cannot_open_keycahin_string" = "Cannot open keychain";
+//"cannot_create_keychain_string" = "Cannot create keychain";
+//"cannot_delete_certificate_string" = "Cannot delete certificate";
+//"cannot_delete_keychain_string" = "Cannot delete keychain";
+//"cannot_query_keycahin_string" = "Cannot query keychain items";
+
+//Connection
+"something_went_wrong_try_string" = "Etwas ist schief gelaufen. Bitte versuche es noch einmal."; //5
+//Connection Handler
+"end_of_communication_string" = "Ende der Kommunikation.";
+
+//Certificate Loader
+"Certificate added successfully to the Keychain" = "Zertifikat erfolgreich zum Schlüsselbund hinzugefügt";
+"Certificate could not be installed because it already exists" = "Zertifikat konnte nicht installiert werden, da es bereits vorhanden ist";//2
+
+//DBHandler
+"rccd_already_imported_string" = "Die RCCD-Konfigurationsdatei wurde bereits importiert.";
+"rccd_suceess_imported_string" = "RCCD-Konfigurationsdatei erfolgreich importiert.";
+"rccd_removed_string" = "RCCD-Konfigurationsdatei wurde erfolgreich entfernt";
+
+//Background Scheduler
+"cert_service_string" = "Zertifikatsdienst:";
+"expiry_time_string" = "Ablaufdatum:";
+"cert_with_service_string" = "Zertifikat mit Diensten:";
+"has_expired_string" = "abgelaufen.";
+
+//MenuItems
+"edit_menu" = "Bearbeiten";
+"view_menu" = "View";
+"window_menu" = "Window";
+"help_menu" = "Hilfe";
+"about_menu" = "About KeyTalk agent";
+"hideKT_menu" = "Verbergen KeyTalk agent";
+"hideOther_menu" = "Andere verstecken";
+"Show_all_menu" = "Alles zeigen";
+"quitKT_menu" = "Verlassen KeyTalk agent";
+"undo_title" = "Undo";
+"redo_menu" = "Redo";
+"cut_menu" = "Schnitt";
+"copy_menu" = "Kopieren";
+"paste_menu" = "Einfügen";
+"paste_match_menu" = "Paste and Match Style";
+"delete_menu" = "Löschen";
+"select_all_menu" = "Wählen Sie Alle";
+"find_menu" = "Finden";
+"spelling_grammer_menu" = "Rechtschreibung und Grammatik";
+"substituion_menu" = "Ersetzungen";
+"tranformation_menu" = "Transformationen";
+"speech_menu" = "Rede";
+"find_submenu" = "Finden...";
+"find_replace_submenu" = "Finden und ersetzen";
+"find_next_submenu" = "Nächstes finden";
+"find_previous_submenu" = "Vorherige finden";
+"use_selection_find_submenu" = "Auswahl für Suche verwenden";
+"jump_selection" = "Springe zur Auswahl";
+"show_sg_submenu" = "Zeige Rechtschreibung und Grammatik";
+"check_doc_submenu" = "Dokument jetzt prüfen";
+"check_swt_submenu" = "Überprüfen Sie die Schreibweise während der Eingabe";
+"check_gws_submenu" = "Überprüfen Sie die Grammatik während der Rechtschreibung";
+"spell_auto_submenu" = "Korrigieren Sie die Schreibweise automatisch";
+"show_sub" = "Vertretungen anzeigen";
+"smart_cp_sub" = "Intelligentes Kopieren / Einfügen";
+"smart_quote_sub" = "Intelligente Zitate";
+"smart_dash_sub" = "Intelligente Dashes";
+"smart_link_sub" = "Intelligente Links";
+"data_detectors_sub" = "Datendetektoren";
+"text_replacement_sub" = "Text ersetzen";
+"make_uc_sub" = "Machen Sie Großbuchstaben";
+"make_lc_sub" = "Kleinbuchstaben machen";
+"captalize_sub" = "Capitalize";
+"start_speak_sub" = "Beginnen Sie zu sprechen";
+"stop_speak_sub" = "Hör auf zu reden";
+"show_toolbar_menu" = "Symbolleiste anzeigen";
+"customize_toolbar_menu" = "Symbolleiste anpassen";
+"show_sidebar_menu" = "Show Sizebar";
+"minimize_menu" = "Minimieren";
+"bring_to_front_menu" = "Bring alles nach vorne";
+"KThelp_menu" = "KeyTalk agent Hilfe";
+
+/* Comment the changes*/
+"Services" = "Dienstleistungen";
+"Choose Your KeyTalk Configuration" =  "Wählen Sie Ihre KeyTalk-Konfiguration";
+"pls_enter_url_or_filepath" = "Bitte geben Sie eine URL zur Konfigurationsdatei ein";
+"enter_url" = "Geben Sie bitte die URL zur Konfigurationsdatei ein";
+"no_config_present" = "Keine Konfigurationsdateien vorhanden, bitte zuerst eine laden. ";
+"add_config_file" = "Konfig HINZUFÜGEN";
+"remove_selcted_config" = "Konfig ENTFERNEN";
+"Kindly provide your email address" =  "Bitte geben Sie Ihre E-Mail-Adresse an";
+"Please enter the One Time Password as sent to your provided email address" = "Bitte geben Sie das Einmalpasswort ein, (OTP) das an Ihre gesendet wurde.";
+"common_name" = "Vollständiger Benutzername (optional)";
+"Next" = "Nächste";
+"login" =  "Anmeldung";
+
+"auth_success" =   "Authentifizierung war erfolgreich, Zertifikat und Schlüssel wurden erfolgreich installiert";
+"enter_username_password" = "Bitte Benutzername, Passwort eingeben";
+
+//new strings for historical certficates
+"download_historical_certs" ="Historische E-Mail-S/MIME-Zertifikaten stehen zum Download bereit. Möchten Sie, dass die installiert werden?";
+"no" ="Nein";
+"yes" ="Ja";
